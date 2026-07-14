@@ -1,0 +1,52 @@
+{
+  "kpi": {
+    "inicio": "2024-12-01",
+    "fin": "2026-05-31",
+    "lineas": 90756,
+    "tickets": 48384,
+    "skus": 62,
+    "unidades": "106223",
+    "ingreso": "228240000",
+    "margen": "150601028",
+    "pct_margen": 0.6598362600771118,
+    "ticket_promedio": 4717.261904761905
+  },
+  "yoy": {
+    "crecimiento_ingreso": 0.25782460436625065,
+    "crecimiento_tickets": 0.2520514883346743,
+    "crecimiento_ticket_promedio": 0.004610925417496192
+  },
+  "topByRevenue": {
+    "producto": "Bolsa de Café 1kg",
+    "tamano": "Único",
+    "categoria": "Retail",
+    "ingreso": "14112000",
+    "unidades": "1176",
+    "margen_unitario": 4800,
+    "margen_total": "5644800"
+  },
+  "topByUnits": {
+    "producto": "Cortado",
+    "tamano": "Único",
+    "categoria": "Café Caliente",
+    "ingreso": "5631000",
+    "unidades": "3754",
+    "margen_unitario": 1155,
+    "margen_total": "4335870"
+  },
+  "peakHour": {
+    "hora": 9,
+    "tickets": 5590
+  },
+  "weekendShare": 0.4835195408342096,
+  "morningShare": 0.3191344246031746,
+  "pareto80": {
+    "skus": 36,
+    "pct_catalogo": 0.5806451612903226,
+    "pct_ingreso": 0.8008403434980722
+  },
+  "source": {
+    "sales": "/Users/alesito/Documents/Veronna/Empresas/Sienna/Data Set/sienna_ventas_pos.csv",
+    "costs": "/Users/alesito/Documents/Veronna/Empresas/Sienna/Data Set/sienna_catalogo_costos.csv"
+  }
+}

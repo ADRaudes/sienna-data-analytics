@@ -1,0 +1,63 @@
+categoria,producto,tamano,precio_venta,costo_directo,margen_contribucion,pct_margen
+Café Caliente,Café Americano,Pequeño,1200,276,924,77.0
+Café Caliente,Café Americano,Mediano,1500,345,1155,77.0
+Café Caliente,Café Americano,Grande,1800,414,1386,77.0
+Café Caliente,Café Chorreado,Pequeño,1100,242,858,78.0
+Café Caliente,Café Chorreado,Mediano,1400,308,1092,78.0
+Café Caliente,Café Chorreado,Grande,1700,374,1326,78.0
+Café Caliente,Cappuccino,Pequeño,1700,459,1241,73.0
+Café Caliente,Cappuccino,Mediano,2100,567,1533,73.0
+Café Caliente,Cappuccino,Grande,2500,675,1825,73.0
+Café Caliente,Latte,Pequeño,1800,486,1314,73.0
+Café Caliente,Latte,Mediano,2200,594,1606,73.0
+Café Caliente,Latte,Grande,2600,702,1898,73.0
+Café Caliente,Espresso,Único,1100,231,869,79.0
+Café Caliente,Espresso Doble,Único,1500,315,1185,79.0
+Café Caliente,Cortado,Único,1500,345,1155,77.0
+Café Caliente,Macchiato,Único,1400,322,1078,77.0
+Café Caliente,Flat White,Pequeño,1900,513,1387,73.0
+Café Caliente,Flat White,Mediano,2300,621,1679,73.0
+Café Caliente,Mocha,Pequeño,2000,620,1380,69.0
+Café Caliente,Mocha,Mediano,2400,744,1656,69.0
+Café Caliente,Mocha,Grande,2800,868,1932,69.0
+Café Frío,Café Helado,Mediano,1700,493,1207,71.0
+Café Frío,Café Helado,Grande,2000,580,1420,71.0
+Café Frío,Cold Brew,Mediano,2200,572,1628,74.0
+Café Frío,Cold Brew,Grande,2600,676,1924,74.0
+Café Frío,Latte Helado,Mediano,2100,630,1470,70.0
+Café Frío,Latte Helado,Grande,2500,750,1750,70.0
+Café Frío,Frappé de Café,Mediano,2600,910,1690,65.0
+Café Frío,Frappé de Café,Grande,3000,1050,1950,65.0
+Café Frío,Affogato,Único,2400,720,1680,70.0
+Bebidas,Agua Embotellada,Único,900,405,495,55.0
+Bebidas,Jugo Natural,Único,1800,720,1080,60.0
+Bebidas,Té Caliente,Pequeño,1300,234,1066,82.0
+Bebidas,Té Caliente,Mediano,1600,288,1312,82.0
+Bebidas,Chocolate Caliente,Pequeño,1900,570,1330,70.0
+Bebidas,Chocolate Caliente,Mediano,2300,690,1610,70.0
+Bebidas,Limonada,Mediano,1700,510,1190,70.0
+Bebidas,Limonada,Grande,2000,600,1400,70.0
+Bebidas,Chai Latte,Mediano,2000,600,1400,70.0
+Bebidas,Chai Latte,Grande,2400,720,1680,70.0
+Bebidas,Matcha Latte,Mediano,2400,840,1560,65.0
+Bebidas,Matcha Latte,Grande,2800,980,1820,65.0
+Comida,Tostada de Aguacate,Único,3500,1400,2100,60.0
+Comida,Gallo Pinto,Único,2900,1160,1740,60.0
+Comida,Bagel con Queso Crema,Único,2800,980,1820,65.0
+Comida,Sándwich Jamón y Queso,Único,3200,1280,1920,60.0
+Comida,Wrap de Pollo,Único,3600,1440,2160,60.0
+Comida,Quiche,Único,3000,990,2010,67.0
+Comida,Ensalada César,Único,3800,1520,2280,60.0
+Repostería,Empanada de Frijol,Único,1300,364,936,72.0
+Repostería,Empanada de Queso,Único,1300,364,936,72.0
+Repostería,Galleta de Chocolate,Único,1000,270,730,73.0
+Repostería,Pan Casero,Único,1200,324,876,73.0
+Repostería,Croissant,Único,1500,495,1005,67.0
+Repostería,Croissant de Almendra,Único,1900,665,1235,65.0
+Repostería,Muffin de Arándano,Único,1600,480,1120,70.0
+Repostería,Brownie,Único,1700,493,1207,71.0
+Repostería,Cheesecake,Único,2500,875,1625,65.0
+Repostería,Tres Leches,Único,2400,816,1584,66.0
+Retail,Bolsa de Café 340g,Único,5500,3300,2200,40.0
+Retail,Bolsa de Café 1kg,Único,12000,7200,4800,40.0
+Retail,Taza Sienna,Único,4500,2250,2250,50.0
