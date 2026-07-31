@@ -1,2 +1,2 @@
 # Este script solo genera el dataset ficticio; el análisis se realizó con DuckDB SQL y Excel.
-Recursos/generar_sienna.py linguist-detectable=false
+Recursos/generar_sienna.py linguist-vendored=true
